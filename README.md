@@ -39,10 +39,10 @@
 
 # 
 <p align="center" >
-<a href="https://twitter.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobhikabharti" height="18" width="24" /></a>
-<a href="https://linkedin.com/in/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhikabharti" height="18" width="24"  /></a>
-<a href="https://instagram.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shobhikabharti" height="18" width="24"  /></a>
-<a href="https://facebook.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shobhikabharti" height="18" width="24" /></a>
-<a href="https://pinterest.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="shobhikabharti" height="18" width="24" /></a>
+<a href="https://twitter.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobhikabharti" height="18" width="24" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhikabharti" height="18" width="24"  /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shobhikabharti" height="18" width="24"  /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://facebook.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shobhikabharti" height="18" width="24" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://pinterest.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="shobhikabharti" height="18" width="24" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/shobhikabharti?si=f5e608006e1949cf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="shobhikabharti" height="18" width="24" /></a>
 </p>
