@@ -1,10 +1,22 @@
+# Shobhika Bharti on GitHub :wave: 
+🔭 I’m currently working on Product Management  
+🌱 I’m currently learning Cloud Computing  
+👯 I’m looking to collaborate on Tensorflow and Spring  
+💬 Ask me about Technologies  
+📫 How to reach me: <a href="https://www.linkedin.com/in/shobhikabharti/">LinkedIn Profile</a>   
 
-- 🔭 I’m currently working on Product Management
-- 🌱 I’m currently learning Cloud Computing
-- 👯 I’m looking to collaborate on Tensorflow and Spring
-- 💬 Ask me about Technologies
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/shobhikabharti/">LinkedIn Profile</a>  
+### My Playlists Online  
+![YouTube](https://img.shields.io/badge/--white?&logo=YouTube&logoColor=red) ![Spotify](https://img.shields.io/badge/--black?&logo=Spotify&logoColor=green)
+ 
 
+Development: https://bit.ly/3eUSNBC     
+Digital Product Management: https://bit.ly/3eMfLKZ  
+Bootcamps: https://bit.ly/3QUq6SI  
+Webinars: https://bit.ly/3LexUgR  
+Meditation: https://bit.ly/3Dp2ylx  
+Artwork: https://bit.ly/3Ug1TJp  
+Food & Nutrition: https://bit.ly/3ROctp4  
+Motivation: https://spoti.fi/3LfrWMy  
 ### Languages
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
