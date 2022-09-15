@@ -14,14 +14,14 @@
 
 #### My Playlists
 
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="18" width="24" /></a> Development: https://bit.ly/3eUSNBC     
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="18" width="24" /></a> Digital Product Management: https://bit.ly/3eMfLKZ  
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="18" width="24" /></a> Bootcamps: https://bit.ly/3QUq6SI  
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="18" width="24" /></a> Webinars: https://bit.ly/3LexUgR  
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="18" width="24" /></a> Meditation: https://bit.ly/3Dp2ylx  
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="18" width="24" /></a> Artwork: https://bit.ly/3Ug1TJp  
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="18" width="24" /></a> Food & Nutrition: https://bit.ly/3ROctp4  
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="shobhikabharti" height="18" width="24" /></a> Motivation: https://spoti.fi/3LfrWMy  
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="15" width="20" /></a> Development: https://bit.ly/3eUSNBC     
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="15" width="20" /></a> Digital Product Management: https://bit.ly/3eMfLKZ  
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="15" width="20" /></a> Bootcamps: https://bit.ly/3QUq6SI  
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="15" width="20" /></a> Webinars: https://bit.ly/3LexUgR  
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="15" width="20" /></a> Meditation: https://bit.ly/3Dp2ylx  
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="15" width="20" /></a> Artwork: https://bit.ly/3Ug1TJp  
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shobhikabharti" height="15" width="20" /></a> Food & Nutrition: https://bit.ly/3ROctp4  
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="shobhikabharti" height="15" width="20" /></a> Motivation: https://spoti.fi/3LfrWMy  
 
 #### Languages
 
