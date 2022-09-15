@@ -3,7 +3,14 @@
 🌱 I’m currently learning Cloud Computing  
 👯 I’m looking to collaborate on Tensorflow and Spring  
 💬 Ask me about Technologies  
-📫 How to reach me: <a href="https://www.linkedin.com/in/shobhikabharti/">LinkedIn Profile</a>   
+📫 Social Media Profile: 
+<a href="https://twitter.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobhikabharti" height="15" width="20" /></a>&nbsp;
+<a href="https://linkedin.com/in/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhikabharti" height="15" width="20"  /></a>&nbsp;
+<a href="https://instagram.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shobhikabharti" height="15" width="20"  /></a>&nbsp;
+<a href="https://facebook.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shobhikabharti" height="15" width="20" /></a>&nbsp;
+<a href="https://pinterest.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="shobhikabharti" height="15" width="20" /></a>&nbsp;
+<a href="https://open.spotify.com/user/shobhikabharti?si=f5e608006e1949cf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="shobhikabharti" height="15" width="20" /></a>
+
 
 #### My Playlists
 
@@ -38,11 +45,4 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 # 
-<p align="center" >
-<a href="https://twitter.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobhikabharti" height="18" width="24" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhikabharti" height="18" width="24"  /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shobhikabharti" height="18" width="24"  /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shobhikabharti" height="18" width="24" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://pinterest.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="shobhikabharti" height="18" width="24" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/shobhikabharti?si=f5e608006e1949cf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="shobhikabharti" height="18" width="24" /></a>
-</p>
+
