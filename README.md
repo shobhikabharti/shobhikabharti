@@ -1,8 +1,9 @@
 ## Shobhika Bharti on GitHub :wave: 
-🔭 I’m currently working on Product Management  
-🌱 I’m currently learning Cloud Computing  
-👯 I’m looking to collaborate on Tensorflow and Spring  
-💬 Ask me about Technologies  
+🔭 Works on Product Management, Data Strategy, & Cloud Deployment  
+🌱 Currently, scaling up on Organisation Economics and Transformation  
+👯 I’m looking to collaborate on Spring and Tensorflow   
+💬 Ask me about Java, RDBMS vs NoSQL, Tools & Technologies  
+:hearts: Food, Culture, Music, & Art  
 📫 Social Media Profile: 
 <a href="https://twitter.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobhikabharti" height="15" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhikabharti" height="15" width="20"  /></a>&nbsp;
