@@ -1,5 +1,5 @@
 ## Shobhika Bharti on GitHub :wave: 
-🔭 Works on Product Management, Data Strategy, & Cloud Deployment  
+🔭 Business Services | Operations Developer | Advertising | Technology Evangelist  
 🌱 Currently, scaling up on Organisation Economics and Transformation  
 👯 I’m looking to collaborate on Spring and Tensorflow   
 💬 Ask me about Java, RDBMS vs NoSQL, Tools & Technologies  
